@@ -1,27 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\liu1\\Desktop\\blazorLearning\\BlazorTutorial\\EmployeeManagement.Web\\EmployeeManagement.Web.csproj": {}
+    "C:\\Users\\liu1\\Desktop\\blazorLearning\\BlazorApp\\BlazorTutorial\\EmployeeManagement.Web\\EmployeeManagement.Web.csproj": {}
   },
   "projects": {
-    "C:\\Users\\liu1\\Desktop\\blazorLearning\\BlazorTutorial\\EmployeeManagement.Models\\EmployeeManagement.Models.csproj": {
+    "C:\\Users\\liu1\\Desktop\\blazorLearning\\BlazorApp\\BlazorTutorial\\EmployeeManagement.Models\\EmployeeManagement.Models.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\liu1\\Desktop\\blazorLearning\\BlazorTutorial\\EmployeeManagement.Models\\EmployeeManagement.Models.csproj",
+        "projectUniqueName": "C:\\Users\\liu1\\Desktop\\blazorLearning\\BlazorApp\\BlazorTutorial\\EmployeeManagement.Models\\EmployeeManagement.Models.csproj",
         "projectName": "EmployeeManagement.Models",
-        "projectPath": "C:\\Users\\liu1\\Desktop\\blazorLearning\\BlazorTutorial\\EmployeeManagement.Models\\EmployeeManagement.Models.csproj"
+        "projectPath": "C:\\Users\\liu1\\Desktop\\blazorLearning\\BlazorApp\\BlazorTutorial\\EmployeeManagement.Models\\EmployeeManagement.Models.csproj"
       },
       "frameworks": {
         "net47": {}
       }
     },
-    "C:\\Users\\liu1\\Desktop\\blazorLearning\\BlazorTutorial\\EmployeeManagement.Web\\EmployeeManagement.Web.csproj": {
+    "C:\\Users\\liu1\\Desktop\\blazorLearning\\BlazorApp\\BlazorTutorial\\EmployeeManagement.Web\\EmployeeManagement.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\liu1\\Desktop\\blazorLearning\\BlazorTutorial\\EmployeeManagement.Web\\EmployeeManagement.Web.csproj",
+        "projectUniqueName": "C:\\Users\\liu1\\Desktop\\blazorLearning\\BlazorApp\\BlazorTutorial\\EmployeeManagement.Web\\EmployeeManagement.Web.csproj",
         "projectName": "EmployeeManagement.Web",
-        "projectPath": "C:\\Users\\liu1\\Desktop\\blazorLearning\\BlazorTutorial\\EmployeeManagement.Web\\EmployeeManagement.Web.csproj",
+        "projectPath": "C:\\Users\\liu1\\Desktop\\blazorLearning\\BlazorApp\\BlazorTutorial\\EmployeeManagement.Web\\EmployeeManagement.Web.csproj",
         "packagesPath": "C:\\Users\\liu1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\liu1\\Desktop\\blazorLearning\\BlazorTutorial\\EmployeeManagement.Web\\obj\\",
+        "outputPath": "C:\\Users\\liu1\\Desktop\\blazorLearning\\BlazorApp\\BlazorTutorial\\EmployeeManagement.Web\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -41,8 +41,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\liu1\\Desktop\\blazorLearning\\BlazorTutorial\\EmployeeManagement.Models\\EmployeeManagement.Models.csproj": {
-                "projectPath": "C:\\Users\\liu1\\Desktop\\blazorLearning\\BlazorTutorial\\EmployeeManagement.Models\\EmployeeManagement.Models.csproj"
+              "C:\\Users\\liu1\\Desktop\\blazorLearning\\BlazorApp\\BlazorTutorial\\EmployeeManagement.Models\\EmployeeManagement.Models.csproj": {
+                "projectPath": "C:\\Users\\liu1\\Desktop\\blazorLearning\\BlazorApp\\BlazorTutorial\\EmployeeManagement.Models\\EmployeeManagement.Models.csproj"
               }
             }
           }

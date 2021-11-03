@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QBDH5FpGHbCJnFva3n+jYXIF9z7E3HAB5vGNF2OEaN5Y05vEQt88ysM9DoM9+vX88DcZmZ6XHXdE+vn7BZ+LlQ==",
+  "dgSpecHash": "Bjbk9CtCts/r57hMani2RbdQQi9GPcS+A0kbDclRRDXTRpXyycgrsi9mUPlN5CgvxwB1oXA0o1JHtVOI/JqZsQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\liu1\\Desktop\\blazorLearning\\BlazorTutorial\\EmployeeManagement.Web\\EmployeeManagement.Web.csproj",
+  "projectFilePath": "C:\\Users\\liu1\\Desktop\\blazorLearning\\BlazorApp\\BlazorTutorial\\EmployeeManagement.Web\\EmployeeManagement.Web.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
