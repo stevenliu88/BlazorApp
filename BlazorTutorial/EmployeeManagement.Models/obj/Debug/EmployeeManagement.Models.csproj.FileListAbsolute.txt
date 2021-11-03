@@ -1,0 +1,6 @@
+C:\Users\liu1\Desktop\blazorLearning\BlazorTutorial\EmployeeManagement.Models\bin\Debug\EmployeeManagement.Models.dll
+C:\Users\liu1\Desktop\blazorLearning\BlazorTutorial\EmployeeManagement.Models\bin\Debug\EmployeeManagement.Models.pdb
+C:\Users\liu1\Desktop\blazorLearning\BlazorTutorial\EmployeeManagement.Models\obj\Debug\EmployeeManagement.Models.csproj.AssemblyReference.cache
+C:\Users\liu1\Desktop\blazorLearning\BlazorTutorial\EmployeeManagement.Models\obj\Debug\EmployeeManagement.Models.csproj.CoreCompileInputs.cache
+C:\Users\liu1\Desktop\blazorLearning\BlazorTutorial\EmployeeManagement.Models\obj\Debug\EmployeeManagement.Models.dll
+C:\Users\liu1\Desktop\blazorLearning\BlazorTutorial\EmployeeManagement.Models\obj\Debug\EmployeeManagement.Models.pdb
