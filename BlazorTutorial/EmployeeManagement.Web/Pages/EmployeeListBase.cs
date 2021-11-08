@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 namespace EmployeeManagement.Web.Pages
 {
     public class EmployeeListBase: ComponentBase
-    {
+    { 
         public IEnumerable<Employee> Employees { get; set; }
 
         protected override async Task OnInitializedAsync()
